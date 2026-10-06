@@ -5,7 +5,7 @@ animated posts, laid out by code from typed design schemas (not drawn by an AI m
 
 - **Connect:** add `https://schemaestro.com/mcp` as a connector in Claude or ChatGPT. No sign-in.
 - **Edit and export:** every design has an EDIT button and a link that opens it on schemaestro.com,
-  or in the Schemaestro app on Android, where you can change the words and export MP4 or GIF on your device.
+  where you can change the words and export MP4 or GIF on your own device.
 - **Privacy:** https://schemaestro.com/privacy
 
 ## Support
